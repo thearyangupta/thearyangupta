@@ -17,9 +17,9 @@
 ---
 
 - 🔭 Currently building **MuleWatch** — an AI investigation copilot for money-mule fraud alerts
-- 🌱 Going deeper into **agentic workflows**, retrieval quality, and **LLMOps**
+- 🌱 Learning **AI system design**: scaling RAG, agent orchestration, and LLM evals
 - 💬 Ask me about **RAG pipelines, LangGraph agents, hybrid search, FastAPI backends**
-- ⚡ Fun fact: I trust a gold-set eval more than a good-looking demo
+- ⚡ Fun fact: my favorite LLM answer is "not in my sources"
 
 ---
 
@@ -49,13 +49,13 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=thearyangupta&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thearyangupta&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=thearyangupta&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thearyangupta&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=C9D4FF">
+  <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thearyangupta&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=6D28D9&text_color=1F2328">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=thearyangupta&hide_border=true&background=00000000&ring=A78BFA&fire=4FD1C5&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=A78BFA&sideLabels=9198A1&dates=9198A1&stroke=3D444D">
+  <img height="165" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=thearyangupta&hide_border=true&background=00000000&ring=6D28D9&fire=0D9488&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=6D28D9&sideLabels=59636E&dates=59636E&stroke=D1D9E0">
+</picture>
 
 </div>
