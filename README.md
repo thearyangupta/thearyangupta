@@ -8,7 +8,7 @@
 
 ### Applied AI Engineer building RAG systems, LLM agents, and the backend infra underneath them
 
-![Profile Views](https://komarev.com/ghpvc/?username=thearyangupta&color=orange&style=flat)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=thearyangupta.thearyangupta&left_text=Profile%20views&left_color=555555&right_color=6D28D9)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aryangupta--genai-blue?logo=linkedin)](https://linkedin.com/in/aryangupta-genai)
 [![Email](https://img.shields.io/badge/Email-aryangwork%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:aryangwork@gmail.com)
 
