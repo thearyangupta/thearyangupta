@@ -9,7 +9,6 @@
 ### Applied AI Engineer building RAG systems, LLM agents, and the backend infra underneath them
 
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=thearyangupta.thearyangupta&left_text=Profile%20views&left_color=555555&right_color=6D28D9)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aryangupta--genai-blue?logo=linkedin)](https://linkedin.com/in/aryangupta-genai)
 [![Email](https://img.shields.io/badge/Email-aryangwork%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:aryangwork@gmail.com)
 
 </div>
@@ -20,6 +19,16 @@
 - 🌱 Learning **AI system design**: scaling RAG, agent orchestration, and LLM evals
 - 💬 Ask me about **RAG pipelines, LangGraph agents, hybrid search, FastAPI backends**
 - ⚡ Fun fact: my favorite LLM answer is "not in my sources"
+
+---
+
+### 🤝 Connect with me
+
+<p align="left">
+  <a href="https://x.com/Aryangwork" target="_blank"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator/src/images/icons/Social/twitter.svg" alt="X (Twitter)" height="32" width="40"></a>
+  <a href="https://linkedin.com/in/aryangupta-genai" target="_blank"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="32" width="40"></a>
+  <a href="https://leetcode.com/u/aryangupta_ag/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="32" width="40"></a>
+</p>
 
 ---
 
