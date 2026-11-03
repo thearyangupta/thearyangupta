@@ -40,7 +40,7 @@
 | **[FlowPilot AI](https://github.com/thearyangupta/flowpilot-ai)** | Email-triage automation platform — classifies, drafts, and holds replies for human approval |
 | **[Fraud Risk Intelligence Engine](https://github.com/thearyangupta/fraud-risk-intelligence-engine)** | Leakage-safe fraud scoring pipeline — temporal splits, XGBoost, frozen decision policy |
 | **[Reading the Signals](https://github.com/thearyangupta/reading-the-signals)** | Gemini-powered reflection journal built for Google Cloud's Gen AI Ideathon |
-| **[Expense Tracker MCP](https://github.com/thearyangupta/expense-tracker-mcp)** | Local MCP server exposing expense-tracking tools via FastMCP + PostgreSQL |
+| **[MuleWatch](https://github.com/thearyangupta/MuleWatch)** | AI investigation copilot for money-mule alerts |
 
 ---
 
